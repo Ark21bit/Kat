@@ -10,8 +10,6 @@ body{
     background-repeat: no-repeat, no-repeat; 
 }
 
-
-
 .bg_footer{
     background-image: url(../img/footre_bg_white.svg), url(../img/footre_bg.webp) ;
     background-position:0 -10px, 50% 50% ;
@@ -22,7 +20,7 @@ body{
 .btn_pink{
     width: 180px;
     height: 56px;
-    background: #FFBCF0;
+    background: #2e1629;
     border-radius: 18px;
     border: none;
     box-sizing: border-box;
